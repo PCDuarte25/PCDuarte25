@@ -37,7 +37,7 @@ const pedro = {
   codeFocus: "Back-End Development",
   passions: ["Matemática Aplicada", "Otimização de Sistemas", "Lógica Computacional"],
   philosophy: "Clean Code + Smart Algorithms = Solutions²",
-  hobbies: ["Resolver puzzles matemáticos", "Participar de hackathons", "Contribuir para open-source"]
+  hobbies: ["Boardgames de gerencimento de recursos", "Qualquer coisa que envolva espaço", "Estudar sobre novidades de programação"]
 };
 ```
 
@@ -55,6 +55,6 @@ const pedro = {
 ⚙️ *Laravel | PHP | Docker*  
 📌 Projeto para requisitar pedidos de inscrição em eventos lidando com concorrência e APIRestful  
 
-### **Back-end de gerenciamento de restaurente** ([GitHub](https://github.com/PCDuarte25/opa-backend))  
+### **Back-end de gerenciamento de restaurentes** ([GitHub](https://github.com/PCDuarte25/opa-backend))  
 ⚙️ *Node.js | Typescript | Docker*  
 📌 Projeto de conclusão de curso com todo o sistema de back-end para o gerencimaneto do administrativo de um restaurante por CRM
